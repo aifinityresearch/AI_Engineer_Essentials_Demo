@@ -1,0 +1,24 @@
+
+1. Login to AWS console
+   - create am IAM user - shakesphere_user
+   - download the AWS Cli Key ID/ Passphrase
+
+2. From command prompt 
+  - aws configure
+  - aws sts get-caller-identity
+
+3. Build the docker image  
+docker build -t shakesphere_app .
+
+4. Run the container locally 
+docker run -p 80:8501 _app:latest
+5. To access ECR , run command 
+
+aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 891377013537.dkr.ecr.ap-south-1.amazonaws.com
+
+6. Tag image to repo 
+docker tag shakesphere_app:latest 891377013537.dkr.ecr.ap-south-1.amazonaws.com/shakesphere_app:latest
+
+7. Push to AWS 
+docker push 891377013537.dkr.ecr.ap-south-1.amazonaws.com/shakesphere_app:latest
+
