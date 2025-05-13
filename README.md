@@ -26,9 +26,10 @@ Welcome to Aifinity Research's Life Changing Demo Session . You will be spening 
 •	How AI Understands Human Language ?
 •	AGENDA 01 : Live Demo 
 o	Shakespeare Poem Generator 
-•	OPTIONAL : Pre-Requisites for a better demo experience 
+OPTIONAL : Pre-Requisites for a better demo experience 
   Install Anaconda Prompt https://www.anaconda.com/download 
-o	Install VSCode https://code.visualstudio.com/download
+  
+Install VSCode https://code.visualstudio.com/download
   Create Virtual Environment from VSCode Terminal 
   conda create -n myenv01 python=3.11.10
   conda activate myenv01
