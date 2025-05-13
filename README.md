@@ -1,6 +1,6 @@
 # AI_Engineer_Essentials_Demo 
 
-AIfinity Certified AI Engineer (Essentials)
+**AIfinity Certified AI Engineer (Essentials)**
 Master AI & AWS DevOps like a Pro. Transition from code to production with hands-on projects and cloud deployment expertise.
 Step Into the AI-Driven Future of IT
 This intensive 3-day certification program is designed for IT professionals eager to master Generative AI and AWS DevOps through a hands-on, project-driven approach.
