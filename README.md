@@ -27,7 +27,9 @@ Capstone Project & Follow-Up Sessions – Apply everything learned into a final 
 
 
 **For Demo Participants**
-Welcome to Aifinity Research's Life Changing Demo Session . You will be spening 60 miniutes with us to understand how our course is planned . We offer to share our approach to make you a full fledged AI Engineer in 24 x 3 = 72 Hours ! 
+
+Welcome to Aifinity Research's Life Changing Demo Session . You will be spening 60 miniutes with us to understand how our course is planned . 
+We offer to share our approach to make you a full fledged AI Engineer in 24 x 3 = 72 Hours  
 
 
 **Day 0 :**
