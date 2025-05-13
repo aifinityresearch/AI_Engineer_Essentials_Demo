@@ -22,10 +22,10 @@ Welcome to Aifinity Research's Life Changing Demo Session . You will be spening 
 
 **Day 0 :**
 
-•	Introduction to Gen AI 
-•	How AI Understands Human Language ?
-•	AGENDA 01 : Live Demo 
-o	Shakespeare Poem Generator 
+Introduction to Gen AI 
+How AI Understands Human Language ?
+AGENDA 01 : Live Demo 
+Shakespeare Poem Generator 
 OPTIONAL : Pre-Requisites for a better demo experience 
   Install Anaconda Prompt https://www.anaconda.com/download 
   
@@ -40,36 +40,59 @@ Install VSCode https://code.visualstudio.com/download
 
 **Day 1: Fundamentals & Environment Setup**
 Fundamentals - Theory
+
 Introduction to Gen AI
+
 How AI Understands Human Language?
+
 Word & Sentence Embeddings
 
+
 **Day 2: Theory & Hands-On Coding**
+
 Prompt Engineering/Techniques (with Hands-On Live Coding)
+
 Few-shot Prompting, Chain-of-Thought Prompting and Role-Based Prompting
+
 Agentic RAG System: AI App Development
+
 Introduction to Vector Database, Knowledge Graph
+
 Tokenizing and Vectorizing
+
 Orchestration Framework (LangChain)
+
 Proprietary Document Analyser – A Real World Project With Hands-On Live Coding
+
 LLM: Groq + Open Source Model – llama 3.3 with local Ollama
+
 FAST API Server & Client in local
+
 Agentic RAG System: DevOps
+
 Introduction to AWS EC2 – Essentials (Theory)
+
 Introduction to Ollama, Huggingface
+
 Create an EC2 Instance, Deploy RAG code, spin up Server and Streamlit Client
+
 Containerize the Front End App, Re-Deploy with AWS ECS (Elastic Container Service)
+
 Setup Security Groups, expose Public IP, Test application via public cloud
 
 **Day 3: LLM Deployment & Advanced AI Techniques**
 Deploy Your LLM (DeepSeek) with Ollama on AWS EC2: Own Your LLM at Zero Subscription
+
 LLM with Short and long time memory
+
 LLM tool call
+
 Model Fine tuning
+
 Multi model intro
-Sound, Vision (OCR tesseract etc.)
-Vibe coding – Intro
+
 Recap & Capstone Project
+
 One to One Follow up Sessions – Planning
 
 
