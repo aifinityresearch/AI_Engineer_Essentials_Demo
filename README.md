@@ -1,4 +1,4 @@
-# AI_Engineer_Essentials_Demo 
+# AI Engineer Essentials Demo 
 
 **AIfinity Certified AI Engineer (Essentials)**
 Master AI & AWS DevOps like a Pro. Transition from code to production with hands-on projects and cloud deployment expertise.
