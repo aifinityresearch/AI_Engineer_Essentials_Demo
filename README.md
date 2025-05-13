@@ -6,15 +6,25 @@ Step Into the AI-Driven Future of IT
 This intensive 3-day certification program is designed for IT professionals eager to master Generative AI and AWS DevOps through a hands-on, project-driven approach.
 
 **What You'll Experience:**
+
 Deep AI Fundamentals – Learn how AI understands human language, embeddings, and NLP concepts.
+
 Practical Environment Setup – Configure powerful AI tools, IDEs, and cloud services with expert guidance.
+
 Hands-On Live Coding – Apply advanced prompt engineering techniques and build a real-world AI app.
+
 Agentic RAG System Development – Implement a vector-based AI retrieval system with LangChain & LLMs.
+
 AWS-Powered AI Deployment – Spin up EC2 instances, orchestrate containerized AI solutions, and expose your cloud-hosted AI app.
+
 Multi-Modal AI Exploration – Dive into LLM memory systems, fine-tuning, and AI-driven sound/vision models.
+
 Deploy Your DeepSeek LLM on Private AWS EC2 Instance – Control your own AI infrastructure.
+
 Fine Tune the DeepSeek LLM – Practical Project Based Fine Tuning of DeepSeek LLM on your own AWS EC2.
+
 Capstone Project & Follow-Up Sessions – Apply everything learned into a final project and get personalized guidance from industry experts.
+
 
 **For Demo Participants**
 Welcome to Aifinity Research's Life Changing Demo Session . You will be spening 60 miniutes with us to understand how our course is planned . We offer to share our approach to make you a full fledged AI Engineer in 24 x 3 = 72 Hours ! 
