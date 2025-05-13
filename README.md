@@ -27,11 +27,16 @@ How AI Understands Human Language ?
 AGENDA 01 : Live Demo 
 Shakespeare Poem Generator 
 OPTIONAL : Pre-Requisites for a better demo experience 
-  Install Anaconda Prompt https://www.anaconda.com/download 
+
+Install Anaconda Prompt https://www.anaconda.com/download 
   
+
 Install VSCode https://code.visualstudio.com/download
+ 
   Create Virtual Environment from VSCode Terminal 
+  
   conda create -n myenv01 python=3.11.10
+  
   conda activate myenv01
 
 •	AGENDA 02 : Boot Camp Syllabus Walk through 
