@@ -8,7 +8,7 @@ import streamlit as st
 
 #groq_api_key = os.getenv('GROQ_API_KEY')
 
-groq_api_key = "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"
+groq_api_key = "gsk_xxx"
 
 client = Groq(api_key=groq_api_key)
 
