@@ -7,7 +7,7 @@ load_dotenv()
 groq_api_key = os.getenv('GROQ_API_KEY')
 
 #print(groq_api_key)
-#groq_api_key = "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"
+#groq_api_key = "gsk_xxx"
 
 
 client = Groq(api_key=groq_api_key)
